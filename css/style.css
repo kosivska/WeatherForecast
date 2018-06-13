@@ -79,14 +79,7 @@ div {
 	background-color: #33CCCC;
 }
 
-.weather-grid li:nth-child(2), 
-.weather-grid li:nth-child(3), 
-.weather-grid li:nth-child(4), 
-.weather-grid li:nth-child(5),
-.weather-grid li:nth-child(6),
-.weather-grid li:nth-child(7),
-.weather-grid li:nth-child(8),
-.weather-grid li:nth-child(10) {
+.cities {
 	width: 25%;
 }
 
